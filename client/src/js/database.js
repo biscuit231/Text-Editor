@@ -42,7 +42,7 @@ export const getDb = async () => {
   // Get confirmation of the request being added
   const result = await request;
   console.log('Data saved to DB', result);
-  return result;
+  return result?.value;
 };
 
 initdb();
