@@ -3,33 +3,23 @@
 
   ## Description
 
-  a
+  This application is a text editor is which the user can create notes and save them to a database. This Progressive web application can be used with or without the internet and previous notes can be returned to and viewed at any time.
 
   ## Table of contents
 
   * [Installation](#Installation)
   * [Usage](#Usage)
-  * [Tests](#Tests)
-  * [Contributing](#Contributing)
   * [License](#License)
   * [Questions](#Questions)
 
   
   ## Installation 
 
-  a
+  To install, simply clone the repo and then run `npm install` 
 
   ## Usage 
 
-  a
-
-  ## Tests 
-
-  a
-
-  ## Contributing 
-
-  a
+  
 
   ## License 
   
