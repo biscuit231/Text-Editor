@@ -19,7 +19,9 @@
 
   ## Usage 
 
-  
+  Deployed application: https://stark-brushlands-41365.herokuapp.com/ 
+
+  ![Screenshot of live site.](./client/src/images/Screenshot%202023-02-05%2021-37-07.png)
 
   ## License 
   
